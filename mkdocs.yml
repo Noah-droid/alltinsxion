@@ -1,7 +1,7 @@
-site_name: NovyPay Docs
+site_name:  All Things Xion
 
 nav:
-  - Home: intro.md
+  - Home: index.md
 
 
   # - Get Status: status.md
