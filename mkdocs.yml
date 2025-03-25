@@ -1,0 +1,9 @@
+site_name: NovyPay Docs
+
+nav:
+  - Home: intro.md
+
+
+  # - Get Status: status.md
+
+theme: readthedocs
